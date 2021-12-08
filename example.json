@@ -1,0 +1,1234 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.",
+    "section": "Technology",
+    "last_updated": "2021-12-07T19:31:01-05:00",
+    "num_results": 29,
+    "results": [
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Elizabeth Holmes caps her testimony with a round of denials.",
+            "abstract": "The climax of the cross-examination of Ms. Holmes, founder of the blood testing start-up Theranos, sends her fraud trial to its end stage.",
+            "url": "https://www.nytimes.com/2021/12/07/technology/elizabeth-holmes-theranos-trial.html",
+            "uri": "nyt://article/b91c84f7-6d21-5666-9d66-46ec8dd63776",
+            "byline": "By Erin Griffith",
+            "item_type": "Article",
+            "updated_date": "2021-12-07T23:59:37-05:00",
+            "created_date": "2021-12-07T07:14:08-05:00",
+            "published_date": "2021-12-07T07:14:08-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Tests (Medical)",
+                "Venture Capital",
+                "United States Defense and Military Forces",
+                "Drugs (Pharmaceuticals)",
+                "Computers and the Internet",
+                "Frauds and Swindling"
+            ],
+            "org_facet": [
+                "Theranos Inc"
+            ],
+            "per_facet": [
+                "Holmes, Elizabeth (1984- )"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06holmes/06holmes-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth Holmes with her partner, Billy Evans, in September. Ms. Holmes’s testimony is expected to formally finish on Wednesday.",
+                    "copyright": "Mike Kai Chen for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/32Xu7Ck"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Instagram says parental controls will arrive in March.",
+            "abstract": "Adam Mosseri, the head of the company, is expected to face questions from lawmakers this week about whether social media harms children.",
+            "url": "https://www.nytimes.com/2021/12/07/technology/instagram-parental-controls.html",
+            "uri": "nyt://article/b2756d4b-651a-5441-81e1-dbdb272db2ec",
+            "byline": "By David McCabe",
+            "item_type": "Article",
+            "updated_date": "2021-12-07T13:54:24-05:00",
+            "created_date": "2021-12-07T03:00:06-05:00",
+            "published_date": "2021-12-07T03:00:06-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Mobile Applications",
+                "Children and Childhood",
+                "Computers and the Internet",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Instagram Inc",
+                "Meta Platforms Inc"
+            ],
+            "per_facet": [
+                "Haugen, Frances",
+                "Mosseri, Adam"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/07/business/07instagram/merlin_163232109_60902fa6-b4d8-40b0-9bfa-9ad41d188bdd-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Adam Mosseri, the head of Instagram, is scheduled to appear before a Senate committee on Wednesday.",
+                    "copyright": "Ricky Rhodes for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3GmsiNW"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars",
+            "abstract": "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say.",
+            "url": "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html",
+            "uri": "nyt://article/2f25a8fa-aa20-5305-b9a1-179d445c5b7c",
+            "byline": "By Cade Metz and Neal E. Boudette",
+            "item_type": "Article",
+            "updated_date": "2021-12-07T16:00:12-05:00",
+            "created_date": "2021-12-06T05:00:24-05:00",
+            "published_date": "2021-12-06T05:00:24-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Driverless and Semiautonomous Vehicles",
+                "Automobile Safety Features and Defects",
+                "Engineering and Engineers",
+                "Sensors",
+                "Radar",
+                "Cameras",
+                "Electric and Hybrid Vehicles",
+                "audio-neutral-informative"
+            ],
+            "org_facet": [
+                "Tesla Motors Inc"
+            ],
+            "per_facet": [
+                "Musk, Elon"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/07/business/07tesla-autopilot1/00tesla-autopilot01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1366,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Tesla using Autopilot navigated a morning rush hour in Los Angeles.",
+                    "copyright": "Mike Blake/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3duyh6B"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Netflix and the Internet of Fads",
+            "abstract": "Netflix and TikTok have supercharged fame.",
+            "url": "https://www.nytimes.com/2021/12/07/technology/netflix-tiktok-fads.html",
+            "uri": "nyt://article/823b9c2d-443a-5173-96e6-182dffc1b180",
+            "byline": "By Shira Ovide",
+            "item_type": "Article",
+            "updated_date": "2021-12-07T13:46:54-05:00",
+            "created_date": "2021-12-07T13:46:54-05:00",
+            "published_date": "2021-12-07T13:46:54-05:00",
+            "material_type_facet": "",
+            "kicker": "the on tech newsletter",
+            "des_facet": [
+                "internal-sub-only-nl",
+                "Social Media",
+                "Video Recordings, Downloads and Streaming"
+            ],
+            "org_facet": [
+                "Netflix Inc",
+                "TikTok (ByteDance)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/07/business/07ontech-fads-nl/07ontech-fads-nl-superJumbo.png",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Harry Bhalerao"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ENIxTT"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Amazon’s cloud computing outage disrupts its warehouse operations.",
+            "abstract": "Amazon Web Services began reporting increased “error rates” in its cloud operations on Tuesday morning.",
+            "url": "https://www.nytimes.com/2021/12/07/technology/aws-outage-amazon-deliveries.html",
+            "uri": "nyt://article/77eb496e-a321-52d2-98b6-f7c1409a380b",
+            "byline": "By Karen Weise",
+            "item_type": "Article",
+            "updated_date": "2021-12-07T20:01:41-05:00",
+            "created_date": "2021-12-07T18:25:21-05:00",
+            "published_date": "2021-12-07T18:25:21-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Cloud Computing",
+                "E-Commerce"
+            ],
+            "org_facet": [
+                "Amazon.com Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/07/multimedia/07amazon/07amazon-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Workers at an Amazon center. Company warehouses around the country stopped operating Tuesday as a result of disruptions in the company’s cloud computing system.",
+                    "copyright": "Gianni Cipriano for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3pBWEoL"
+        },
+        {
+            "section": "science",
+            "subsection": "",
+            "title": "This Robot Looks Like a Pancake and Jumps Like a Maggot",
+            "abstract": "Researchers designed a soft, legless robot that can hop and navigate obstacle courses.",
+            "url": "https://www.nytimes.com/2021/12/07/science/robots-pancake-jump.html",
+            "uri": "nyt://article/cdfe9ca5-49f7-5857-90a1-d4a262c7f483",
+            "byline": "By Sabrina Imbler",
+            "item_type": "Article",
+            "updated_date": "2021-12-07T18:17:57-05:00",
+            "created_date": "2021-12-07T11:00:09-05:00",
+            "published_date": "2021-12-07T11:00:09-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "Robots and Robotics",
+                "Research"
+            ],
+            "org_facet": [
+                "Chongqing University",
+                "Nature Communications (Journal)"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/07/autossell/07SCI-JUMPING-ROBOTScov2/07SCI-JUMPING-ROBOTScov2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "R. Chen et al., Nature Communications 2021"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ygr1oR"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Seeking Space for Solar Farms, Cities Find Room at Their Airports",
+            "abstract": "Airports around the nation are installing solar arrays on unused land, roofs and parking garages, helping them achieve self-sufficiency while also providing power to their communities.",
+            "url": "https://www.nytimes.com/2021/12/07/business/airports-solar-farms.html",
+            "uri": "nyt://article/1fe701c7-98a2-5024-9ed6-6359721a568e",
+            "byline": "By Amy Zipkin",
+            "item_type": "Article",
+            "updated_date": "2021-12-08T00:08:34-05:00",
+            "created_date": "2021-12-07T09:00:08-05:00",
+            "published_date": "2021-12-07T09:00:08-05:00",
+            "material_type_facet": "",
+            "kicker": "Square Feet",
+            "des_facet": [
+                "Solar Energy",
+                "Airports",
+                "Real Estate (Commercial)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/07/business/07airport-solar-01/07airport-solar-01-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A grid of solar panels stretching toward the Tallahassee International Airport control tower.",
+                    "copyright": "Dustin Chambers for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/31GR8sN"
+        },
+        {
+            "section": "world",
+            "subsection": "",
+            "title": "On the Banks of the Furious Congo River, a 5-Star Emporium of Ambition",
+            "abstract": "As the clean energy revolution upends the centuries-long lock of fossil fuels on the global economy, dealmakers and hustlers converge on the Fleuve Congo Hotel.",
+            "url": "https://www.nytimes.com/2021/12/07/world/congo-cobalt-investor-fleuve-hotel.html",
+            "uri": "nyt://article/2d633da4-6868-5405-aec9-78c1b94641d1",
+            "byline": "By Dionne Searcey, Eric Lipton, Michael Forsythe and Ashley Gilbertson",
+            "item_type": "Article",
+            "updated_date": "2021-12-08T00:33:18-05:00",
+            "created_date": "2021-12-07T05:00:29-05:00",
+            "published_date": "2021-12-07T05:00:29-05:00",
+            "material_type_facet": "",
+            "kicker": "Race to the Future",
+            "des_facet": [
+                "Mines and Mining",
+                "Cobalt",
+                "Electric and Hybrid Vehicles",
+                "Alternative and Renewable Energy",
+                "Global Warming"
+            ],
+            "org_facet": [
+                "Blackwater Worldwide",
+                "CHINA INTERNATIONAL TRUST \u0026 INVESTMENT CORP",
+                "Frontier Services Group",
+                "Gecamines SA"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Prince, Erik D",
+                "Trump, Donald J",
+                "Tshisekedi, Felix",
+                "Zeitlin, Jide"
+            ],
+            "geo_facet": [
+                "Congo, Democratic Republic of (Congo-Kinshasa)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/29/multimedia/00DRC-hotel-carpet/merlin_192673170_087f0bd7-1a35-4fef-ba47-b814e3a2e0be-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The hotel rolled out the red carpet for the arrival of Mr. Tshisekedi, the president.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3GjRTH6"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "A New Tesla Safety Concern: Drivers Can Play Video Games in Moving Cars",
+            "abstract": "The feature raises fresh questions about whether Tesla is compromising safety as it rushes to add new technologies.",
+            "url": "https://www.nytimes.com/2021/12/07/business/tesla-video-game-driving.html",
+            "uri": "nyt://article/0c83bcbf-d19d-54ca-aa49-9f5ac028b79c",
+            "byline": "By Neal E. Boudette",
+            "item_type": "Article",
+            "updated_date": "2021-12-07T12:33:45-05:00",
+            "created_date": "2021-12-07T05:00:17-05:00",
+            "published_date": "2021-12-07T05:00:17-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Driver Distraction and Fatigue",
+                "Computer and Video Games",
+                "Automobile Safety Features and Defects",
+                "Electric and Hybrid Vehicles",
+                "Traffic Accidents and Safety"
+            ],
+            "org_facet": [
+                "Tesla Motors Inc",
+                "National Transportation Safety Board",
+                "National Highway Traffic Safety Administration"
+            ],
+            "per_facet": [
+                "Musk, Elon"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/06/business/00tesla-distraction01/merlin_194943327_e6eeb7e1-1032-4b8c-86fa-071c2ac8f547-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1639,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Vince Patton demonstrated that it’s possible to play video games while driving his Tesla Model 3.",
+                    "copyright": "Will Matsuda for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3lGa8yy"
+        },
+        {
+            "section": "travel",
+            "subsection": "",
+            "title": "Your Face Is, or Will Be, Your Boarding Pass",
+            "abstract": "Tech-driven changes are coming fast and furiously to airports, including advancements in biometrics that verify identity and shorten security procedures for those passengers who opt into the programs.",
+            "url": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.html",
+            "uri": "nyt://article/ecca4b1f-4ac1-5579-bfea-8483d59de2ed",
+            "byline": "By Elaine Glusac",
+            "item_type": "Article",
+            "updated_date": "2021-12-07T05:00:16-05:00",
+            "created_date": "2021-12-07T05:00:16-05:00",
+            "published_date": "2021-12-07T05:00:16-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Facial Recognition Software",
+                "Airports",
+                "Airlines and Airplanes",
+                "Identification Devices",
+                "Travel and Vacations",
+                "Biometrics",
+                "Airport Security"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/02/business/02biometrics-video-still/02biometrics-video-still-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2033,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "MICHAEL WARAKSA"
+                }
+            ],
+            "short_url": "https://nyti.ms/3rIIDYY"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Intel will take its Mobileye automotive unit public in 2022.",
+            "abstract": "The chip maker’s Israeli subsidiary builds driver-assistance technology for major automakers and is now testing self-driving cars.",
+            "url": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
+            "uri": "nyt://article/03c1559f-b4a5-589b-a17b-8be0ea7c0839",
+            "byline": "By Cade Metz",
+            "item_type": "Article",
+            "updated_date": "2021-12-07T07:23:09-05:00",
+            "created_date": "2021-12-06T22:31:36-05:00",
+            "published_date": "2021-12-06T22:31:36-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Electric and Hybrid Vehicles",
+                "Automobiles"
+            ],
+            "org_facet": [
+                "Mobileye NV",
+                "Intel Corporation"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06mobileye/06mobileye-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1366,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Mobileye vehicle at the Nasdaq stock exchange in Manhattan. The company announced testing of its driverless cars in the city in July.",
+                    "copyright": "Jeenah Moon/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/337Ed3N"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "Chanel, TikTok and the Beauty Advent Calendar Controversy",
+            "abstract": "Some social media users are not feeling the Christmas spirit — or this box of mini lipsticks and branded stickers.",
+            "url": "https://www.nytimes.com/2021/12/06/style/chanel-tiktok-advent-calendar-controversy.html",
+            "uri": "nyt://article/d8b31415-d553-5c39-839b-201970cbaf5a",
+            "byline": "By Vanessa Friedman",
+            "item_type": "Article",
+            "updated_date": "2021-12-06T20:54:37-05:00",
+            "created_date": "2021-12-06T13:43:04-05:00",
+            "published_date": "2021-12-06T13:43:04-05:00",
+            "material_type_facet": "",
+            "kicker": "Unbuttoned",
+            "des_facet": [
+                "Social Media",
+                "Luxury Goods and Services",
+                "Cosmetics and Toiletries",
+                "Perfumes and Fragrances",
+                "your-feed-fashion"
+            ],
+            "org_facet": [
+                "Chanel SA",
+                "TikTok (ByteDance)",
+                "Instagram Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/06/fashion/06CHANEL-ADVENT/06CHANEL-ADVENT--superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2047,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The Chanel No. 5 Advent calendar from its 2021 holiday collection.  ",
+                    "copyright": "via Chanel"
+                }
+            ],
+            "short_url": "https://nyti.ms/336j5Lh"
+        },
+        {
+            "section": "nyregion",
+            "subsection": "",
+            "title": "A Bitcoin Boom Fueled by Cheap Power, Empty Plants and Few Rules",
+            "abstract": "Cryptocurrency miners are flocking to New York’s faded industrial towns, prompting concern over the environmental impact of huge computer farms.",
+            "url": "https://www.nytimes.com/2021/12/05/nyregion/bitcoin-mining-upstate-new-york.html",
+            "uri": "nyt://article/a6674bcf-ab4b-5dfb-8d4a-464f9be3fc5f",
+            "byline": "By Corey Kilgannon",
+            "item_type": "Article",
+            "updated_date": "2021-12-06T23:16:02-05:00",
+            "created_date": "2021-12-05T05:00:12-05:00",
+            "published_date": "2021-12-05T05:00:12-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Virtual Currency",
+                "Bitcoin (Currency)",
+                "Electric Light and Power",
+                "Hydroelectric Power",
+                "Greenhouse Gas Emissions",
+                "Local Government"
+            ],
+            "org_facet": [
+                "Sierra Club",
+                "Earthjustice",
+                "Environmental Conservation Department (NYS)"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "Buffalo (NY)",
+                "Finger Lakes Region (NY)",
+                "Love Canal (Niagara Falls, NY)",
+                "Massena (NY)",
+                "Niagara Falls (NY)",
+                "North Tonawanda (NY)",
+                "Owego (NY)",
+                "Seneca Lake (NY)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/07/nyregion/00nybitcoin5/00nybitcoin5-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Fans cooling a Bitcoin mining operation at the Mechanicville Hydroelectric Plant in Mechanicville, N.Y.",
+                    "copyright": "Cindy Schultz for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ordKGk"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Is an All-Encompassing Mobility App Making a Comeback?",
+            "abstract": "Versions of “mobility as a service,” or MaaS, apps exist, but companies and cities will need to come together for the idea to gain momentum.",
+            "url": "https://www.nytimes.com/2021/12/05/business/maas-mobility-app.html",
+            "uri": "nyt://article/7c2b588c-a617-5506-a5d0-fddef4b21886",
+            "byline": "By John Surico",
+            "item_type": "Article",
+            "updated_date": "2021-12-05T22:11:52-05:00",
+            "created_date": "2021-12-05T05:00:07-05:00",
+            "published_date": "2021-12-05T05:00:07-05:00",
+            "material_type_facet": "",
+            "kicker": "Future of Transportation",
+            "des_facet": [
+                "Mobile Applications",
+                "Transportation",
+                "Transit Systems",
+                "Mobile Commerce and Payments"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/06/multimedia/05sp-transportation-maas/05sp-transportation-maas-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Matt Williams"
+                }
+            ],
+            "short_url": "https://nyti.ms/31zQPzF"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "When Did Spotify Wrapped Get So Chatty?",
+            "abstract": "This year’s data dump from the streaming music service leaned heavily on contemporary buzzwords and slang — and inspired many, many memes.",
+            "url": "https://www.nytimes.com/2021/12/04/style/spotify-wrapped-memes.html",
+            "uri": "nyt://article/282d79b9-b958-50d1-8e23-862cffdf092d",
+            "byline": "By Gina Cherelus",
+            "item_type": "Article",
+            "updated_date": "2021-12-06T10:37:12-05:00",
+            "created_date": "2021-12-04T05:00:11-05:00",
+            "published_date": "2021-12-04T05:00:11-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Data-Mining and Database Marketing",
+                "Social Media",
+                "Music"
+            ],
+            "org_facet": [
+                "Spotify"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/03/fashion/SPOTIFY-WRAPPED-1/SPOTIFY-WRAPPED-1-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 973,
+                    "width": 1459,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "For the text of this year’s Spotify Wrapped feature, the streaming music service leaned on internet slang and trending topics.",
+                    "copyright": "via Spotify"
+                }
+            ],
+            "short_url": "https://nyti.ms/3EDzzsh"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Twitter’s heads of engineering and design will leave in a company shake-up.",
+            "abstract": "Twitter’s head of engineering, Michael Montano, and its head of design and research, Dantley Davis, will leave the company by the end of the year.",
+            "url": "https://www.nytimes.com/2021/12/03/technology/twitter-engineering-design-shakeup.html",
+            "uri": "nyt://article/a6eb3053-7c24-5a4b-85a6-ac153fe87261",
+            "byline": "By Kate Conger",
+            "item_type": "Article",
+            "updated_date": "2021-12-06T14:14:52-05:00",
+            "created_date": "2021-12-03T15:48:08-05:00",
+            "published_date": "2021-12-03T15:48:08-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Computers and the Internet",
+                "Appointments and Executive Changes"
+            ],
+            "org_facet": [
+                "Twitter"
+            ],
+            "per_facet": [
+                "Agrawal, Parag",
+                "Davis, Dantley",
+                "Montano, Michael",
+                "Dorsey, Jack"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/30/multimedia/30twitter/30twitter-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Richard Drew/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3rxEOWx"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "What Happened to Amazon’s Bookstore?",
+            "abstract": "A 2011 thriller was supposed to cost $15. One merchant listed it at $987, with a 17th-century publication date. That’s what happens in a marketplace where third-party sellers run wild.",
+            "url": "https://www.nytimes.com/2021/12/03/technology/amazon-bookstore.html",
+            "uri": "nyt://article/2880b121-35da-57e2-a828-2864580dd700",
+            "byline": "By David Streitfeld",
+            "item_type": "Article",
+            "updated_date": "2021-12-03T21:17:21-05:00",
+            "created_date": "2021-12-03T05:00:21-05:00",
+            "published_date": "2021-12-03T05:00:21-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "E-Commerce",
+                "Computers and the Internet",
+                "Books and Literature",
+                "Book Trade and Publishing",
+                "Prices (Fares, Fees and Rates)",
+                "Suits and Litigation (Civil)"
+            ],
+            "org_facet": [
+                "Amazon.com Inc",
+                "Institute for Local Self-Reliance"
+            ],
+            "per_facet": [
+                "Bezos, Jeffrey P",
+                "Boland, John C"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/05/business/05Amazon-books-web/05Amazon-books-web-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 2048,
+                    "width": 1409,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Max Guther"
+                }
+            ],
+            "short_url": "https://nyti.ms/3rw1Ay1"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "F.T.C. Sues to Stop Blockbuster Chip Deal Between Nvidia and Arm",
+            "abstract": "The proposed deal would give Nvidia control over computing technology and designs that rival firms rely on.",
+            "url": "https://www.nytimes.com/2021/12/02/technology/ftc-nvidia-arm-deal.html",
+            "uri": "nyt://article/ce710e58-b98d-54a9-bbf7-ba621a966e41",
+            "byline": "By Cecilia Kang and Don Clark",
+            "item_type": "Article",
+            "updated_date": "2021-12-03T12:55:28-05:00",
+            "created_date": "2021-12-02T15:39:36-05:00",
+            "published_date": "2021-12-02T15:39:36-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Mergers, Acquisitions and Divestitures",
+                "Computer Chips",
+                "Antitrust Laws and Competition Issues",
+                "Suits and Litigation (Civil)",
+                "Computers and the Internet",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "ARM Holdings PLC",
+                "Federal Trade Commission",
+                "NVIDIA Corporation"
+            ],
+            "per_facet": [
+                "Khan, Lina"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/02/multimedia/02chips/02chips-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christie Hemm Klok for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3xMzHTB"
+        },
+        {
+            "section": "health",
+            "subsection": "",
+            "title": "Why Didn’t the U.S. Detect Omicron Cases Sooner?",
+            "abstract": "Genomic surveillance has improved enormously in recent months, but the system has built-in delays, and blind spots remain.",
+            "url": "https://www.nytimes.com/2021/12/02/health/omicron-variant-genetic-surveillance.html",
+            "uri": "nyt://article/7480f247-a137-5073-a725-59e0848337dd",
+            "byline": "By Emily Anthes",
+            "item_type": "Article",
+            "updated_date": "2021-12-03T08:36:31-05:00",
+            "created_date": "2021-12-02T14:17:55-05:00",
+            "published_date": "2021-12-02T14:17:55-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "your-feed-science",
+                "your-feed-health",
+                "Coronavirus Omicron Variant",
+                "Tests (Medical)",
+                "Vaccination and Immunization",
+                "Research",
+                "Genetics and Heredity",
+                "Disease Rates"
+            ],
+            "org_facet": [
+                "Centers for Disease Control and Prevention"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "South Africa",
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/02/science/02virus-surveillance1/merlin_193235850_d4a150ee-2c98-4553-ab57-cab18f22bef2-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Analyzing a Covid test sample in a lab in Houston. The country is now sequencing roughly 80,000 virus samples a week and 14 percent of all positive P.C.R. tests, but the process is time-consuming.",
+                    "copyright": "Brandon Bell/Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Dk67Gf"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "A Journalist, a Philosophy Major and the Mad Scramble for Video Game Consoles",
+            "abstract": "New gaming consoles remain in short supply this holiday season, spawning cottage industries of tipsters and scalpers making money off their scarcity.",
+            "url": "https://www.nytimes.com/2021/12/02/business/video-game-consoles-scalpers.html",
+            "uri": "nyt://article/bfe4d59f-47ce-5662-88e9-998989297978",
+            "byline": "By Kellen Browning and Julie Creswell",
+            "item_type": "Article",
+            "updated_date": "2021-12-06T11:43:23-05:00",
+            "created_date": "2021-12-02T10:46:47-05:00",
+            "published_date": "2021-12-02T10:46:47-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Shopping and Retail",
+                "Computer and Video Games",
+                "Xbox (Video Game System)",
+                "PlayStation 5 (Video Game System)",
+                "Holidays and Special Occasions",
+                "E-Commerce"
+            ],
+            "org_facet": [
+                "Microsoft Corp",
+                "Sony Corporation"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/26/business/26retail-sleuths/26retail-sleuths-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Leon Edler\n"
+                }
+            ],
+            "short_url": "https://nyti.ms/32HBuxB"
+        },
+        {
+            "section": "style",
+            "subsection": "",
+            "title": "The Year in Emojis",
+            "abstract": "Tears of joy prevailed as the most-used emoji in 2021, despite Gen Z’s stated contempt for it.",
+            "url": "https://www.nytimes.com/2021/12/02/style/emojis-most-used.html",
+            "uri": "nyt://article/93aedbaa-ace8-5d9e-bee8-d1f3f17d1a51",
+            "byline": "By Anna P. Kambhampaty",
+            "item_type": "Article",
+            "updated_date": "2021-12-05T12:46:02-05:00",
+            "created_date": "2021-12-02T09:53:43-05:00",
+            "published_date": "2021-12-02T09:53:43-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Emojis and Emoticons",
+                "Text Messaging",
+                "Social Media",
+                "Instant Messaging",
+                "Generation Z",
+                "Two Thousand Twenty One"
+            ],
+            "org_facet": [
+                "Unicode Consortium"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/05/fashion/02YEAR-IN-EMOJI1swap/02YEAR-IN-EMOJI1swap-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1944,
+                    "width": 1944,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "J\u0026ouml;rg Carstensen/Picture alliance via Getty Images"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Dg0Cby"
+        },
+        {
+            "section": "business",
+            "subsection": "",
+            "title": "Twitter and Facebook hit back at Chinese propaganda campaigns.",
+            "abstract": "The social media giants removed a large number of accounts that promoted Covid-19 conspiracy theories and undermined reports of human rights abuses.",
+            "url": "https://www.nytimes.com/2021/12/02/business/facebook-twitter-china-propaganda.html",
+            "uri": "nyt://article/5e7401c9-fd63-5877-aa2b-cf5cd3c80e3d",
+            "byline": "By Paul Mozur",
+            "item_type": "Article",
+            "updated_date": "2021-12-02T09:47:26-05:00",
+            "created_date": "2021-12-02T05:08:50-05:00",
+            "published_date": "2021-12-02T05:08:50-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Coronavirus (2019-nCoV)",
+                "Human Rights and Human Rights Violations",
+                "Computers and the Internet",
+                "Propaganda"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "Twitter"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "China"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/02/world/02economy-briefing-china-twitter/merlin_196055769_2276160d-bde3-498e-adfb-47801d2715a0-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A propaganda display in the city of Hotan, in the Chinese region of Xinjiang, earlier this year. ",
+                    "copyright": "Ng Han Guan/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3ocMQSK"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Square, Jack Dorsey’s payments company, changes its name to Block.",
+            "abstract": "Mr. Dorsey has in recent years grown more fascinated by cryptocurrencies and the promise of technological decentralization that blockchain technology could allow for.",
+            "url": "https://www.nytimes.com/2021/12/01/technology/square-block-name-change-dorsey.html",
+            "uri": "nyt://article/bfc07054-13dd-5ff8-b351-b9efb7ca3772",
+            "byline": "By Kellen Browning",
+            "item_type": "Article",
+            "updated_date": "2021-12-02T12:18:32-05:00",
+            "created_date": "2021-12-01T17:58:41-05:00",
+            "published_date": "2021-12-01T17:58:41-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Names, Organizational",
+                "Mobile Commerce and Payments",
+                "Computers and the Internet",
+                "Virtual Currency",
+                "Blockchain (Technology)"
+            ],
+            "org_facet": [
+                "Square Inc"
+            ],
+            "per_facet": [
+                "Dorsey, Jack"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/01/multimedia/01block/01block-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1586,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jack Dorsey, in 2013, showing off a Square point-of-sale terminal. Mr. Dorsey has become a major booster of cryptocurrency and blockchain technology.",
+                    "copyright": "Jim Wilson/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3od6DkZ"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Those Cute Cats Online? They Help Spread Misinformation.",
+            "abstract": "A mainstay of the internet is regularly used to build audiences for people and organizations pushing false and misleading information.",
+            "url": "https://www.nytimes.com/2021/12/01/technology/misinformation-cute-cats-online.html",
+            "uri": "nyt://article/d1a1126f-9e6e-57d2-a37d-21b7b30b4725",
+            "byline": "By Davey Alba",
+            "item_type": "Article",
+            "updated_date": "2021-12-06T09:13:29-05:00",
+            "created_date": "2021-12-01T05:00:24-05:00",
+            "published_date": "2021-12-01T05:00:24-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Animals",
+                "Social Media",
+                "Video Recordings, Downloads and Streaming",
+                "Computers and the Internet",
+                "Rumors and Misinformation",
+                "internal-storyline-no"
+            ],
+            "org_facet": [
+                "Epoch Times",
+                "Jukin Media Inc"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/23/business/00cutecats-disinfo-promo/00cutecats-disinfo-promo-superJumbo.png",
+                    "format": "superJumbo",
+                    "height": 565,
+                    "width": 848,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "."
+                }
+            ],
+            "short_url": "https://nyti.ms/31j39nM"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Lawmakers Target Big Tech ‘Amplification.’ What Does That Mean?",
+            "abstract": "Some lawmakers from both parties argue that when social media sites boost the performance of hateful or violent posts, the sites become accomplices.",
+            "url": "https://www.nytimes.com/2021/12/01/technology/big-tech-amplification.html",
+            "uri": "nyt://article/9aef3e5a-50db-5e25-b241-a1551567b4a1",
+            "byline": "By David McCabe",
+            "item_type": "Article",
+            "updated_date": "2021-12-02T13:36:26-05:00",
+            "created_date": "2021-12-01T05:00:22-05:00",
+            "published_date": "2021-12-01T05:00:22-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Social Media",
+                "Rumors and Misinformation",
+                "Law and Legislation",
+                "Freedom of Speech and Expression",
+                "Computers and the Internet",
+                "Constitution (US)",
+                "Regulation and Deregulation of Industry",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Facebook Inc",
+                "House Committee on Energy and Commerce"
+            ],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/01/business/00amplify-explainer/00amplify-explainer-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1152,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Erik Carter"
+                }
+            ],
+            "short_url": "https://nyti.ms/3xEAvd0"
+        },
+        {
+            "section": "technology",
+            "subsection": "personaltech",
+            "title": "How to Carry Your Covid Health Data on a Smartphone",
+            "abstract": "To plan for safe travels and gatherings this holiday season, here are some simple ways to take your Covid-related health data with you.",
+            "url": "https://www.nytimes.com/2021/12/01/technology/personaltech/covid-vaccination-card-phone.html",
+            "uri": "nyt://article/8db92718-8544-5a7e-a9bc-03edde249444",
+            "byline": "By Brian X. Chen",
+            "item_type": "Article",
+            "updated_date": "2021-12-03T14:08:23-05:00",
+            "created_date": "2021-12-01T05:00:18-05:00",
+            "published_date": "2021-12-01T05:00:18-05:00",
+            "material_type_facet": "",
+            "kicker": "Tech Fix",
+            "des_facet": [
+                "Content Type: Service",
+                "Vaccination Proof and Immunization Records",
+                "Vaccination and Immunization",
+                "States (US)",
+                "Computers and the Internet",
+                "Smartphones",
+                "Mobile Applications",
+                "Quarantine (Life and Culture)",
+                "Coronavirus (2019-nCoV)",
+                "Travel and Vacations"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/03/business/01Techfix-illo/01Techfix-illo-superJumbo.gif",
+                    "format": "superJumbo",
+                    "height": 577,
+                    "width": 1024,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Glenn Harvey"
+                }
+            ],
+            "short_url": "https://nyti.ms/3DdyVQx"
+        },
+        {
+            "section": "magazine",
+            "subsection": "",
+            "title": "What Will Art Look Like in the Metaverse?",
+            "abstract": "Mark Zuckerberg wants us thinking about visual art when we contemplate his company’s new venture. Artists should take the suggestion seriously.",
+            "url": "https://www.nytimes.com/2021/12/01/magazine/mark-zuckerberg-meta-art.html",
+            "uri": "nyt://article/713d17f0-b1e5-5079-b39d-f7a1b515be1d",
+            "byline": "By Dean Kissick",
+            "item_type": "Article",
+            "updated_date": "2021-12-05T14:55:42-05:00",
+            "created_date": "2021-12-01T05:00:13-05:00",
+            "published_date": "2021-12-01T05:00:13-05:00",
+            "material_type_facet": "",
+            "kicker": "Screenland",
+            "des_facet": [
+                "Art",
+                "Computers and the Internet",
+                "Virtual Reality (Computers)"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/05/magazine/05mag-screenland/05mag-screenland-superJumbo-v2.jpg",
+                    "format": "superJumbo",
+                    "height": 1363,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Photo illustration by Alicia Tatone"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Efh3WE"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Prosecutors Push Elizabeth Holmes of Theranos to Take Responsibility",
+            "abstract": "Under cross-examination, the founder of the failed blood testing start-up defended herself but admitted that she had made mistakes.",
+            "url": "https://www.nytimes.com/2021/11/30/technology/elizabeth-holmes-theranos-trial-prosecution.html",
+            "uri": "nyt://article/ebe00c42-980c-5852-84b8-94f451b7d992",
+            "byline": "By Erin Griffith",
+            "item_type": "Article",
+            "updated_date": "2021-12-01T12:34:46-05:00",
+            "created_date": "2021-11-30T18:24:59-05:00",
+            "published_date": "2021-11-30T18:24:59-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Frauds and Swindling",
+                "Tests (Medical)",
+                "Start-ups",
+                "Computers and the Internet"
+            ],
+            "org_facet": [
+                "Theranos Inc"
+            ],
+            "per_facet": [
+                "Holmes, Elizabeth (1984- )",
+                "Balwani, Ramesh"
+            ],
+            "geo_facet": [],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/12/01/business/30holmes-print/30holmes-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Elizabeth Holmes, the founder of Theranos, leaving the courthouse last week.",
+                    "copyright": "Jim Wilson/The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/32SezQx"
+        },
+        {
+            "section": "technology",
+            "subsection": "",
+            "title": "Twitter will take down pictures of people posted without their permission.",
+            "abstract": "The company said the policy was consistent with privacy laws in the European Union and elsewhere.",
+            "url": "https://www.nytimes.com/2021/11/30/technology/twitter-new-photo-privacy-policy.html",
+            "uri": "nyt://article/f3fc1fce-f598-5e76-9f41-6b91663a6a69",
+            "byline": "By Kate Conger",
+            "item_type": "Article",
+            "updated_date": "2021-11-30T16:24:34-05:00",
+            "created_date": "2021-11-30T16:19:15-05:00",
+            "published_date": "2021-11-30T16:19:15-05:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Computers and the Internet",
+                "Social Media",
+                "Photography",
+                "Video Recordings, Downloads and Streaming",
+                "Privacy"
+            ],
+            "org_facet": [
+                "European Union",
+                "Twitter"
+            ],
+            "per_facet": [],
+            "geo_facet": [
+                "United States"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2021/11/30/multimedia/30twitter/30twitter-superJumbo.jpg",
+                    "format": "superJumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Richard Drew/Associated Press"
+                }
+            ],
+            "short_url": "https://nyti.ms/3dlmh7L"
+        }
+    ]
+}
